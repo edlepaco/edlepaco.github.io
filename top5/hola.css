@@ -1,0 +1,35 @@
+body{
+background-color: #B9582E;
+}
+
+h1{
+font-size:50px;
+text-align:center;
+color:#442416;
+}
+
+h2{
+font-size:30px;
+text-align:center;
+color:black;
+}
+
+/* p{ */
+/* font-size: 14px; */
+/* } */
+
+img{
+display: block;
+width: 300px;
+height: 250px;
+margin: auto;
+}
+
+a{
+  color: white;
+  text-decoration:none;
+}
+
+li{
+  color: white;
+}
